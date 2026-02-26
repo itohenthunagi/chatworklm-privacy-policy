@@ -1,4 +1,4 @@
-# chatworklm-privacy-policy
+# chrome-extension-privacy-policies
 
 Chrome拡張向けプライバシーポリシー公開用（GitHub Pages）リポジトリです。
 
@@ -7,8 +7,8 @@ Chrome拡張向けプライバシーポリシー公開用（GitHub Pages）リ�
 - コンテキストウィンドウメーター
 
 公開URL（GitHub Pages）:
-- https://itohenthunagi.github.io/chatworklm-privacy-policy/
+- https://itohenthunagi.github.io/chrome-extension-privacy-policies/
 
 個別ページ例:
-- https://itohenthunagi.github.io/chatworklm-privacy-policy/policies/chatworklm.html
-- https://itohenthunagi.github.io/chatworklm-privacy-policy/policies/context-window-meter.html
+- https://itohenthunagi.github.io/chrome-extension-privacy-policies/policies/chatworklm.html
+- https://itohenthunagi.github.io/chrome-extension-privacy-policies/policies/context-window-meter.html
